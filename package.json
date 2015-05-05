@@ -1,0 +1,33 @@
+{
+  "name": "Wassup Restful API",
+  "version": "1.0.0",
+  "description": "Wassup Rest API",
+  "keywords": [
+    "wassup",
+    "Node.js",
+    "application",
+    "openshift"
+  ],
+  "author": {
+    "name": "Srinivas Gowda",
+    "email": "srinivas@solancer.org",
+    "url": "http://www.solancer.com/"
+  },
+  "homepage": "http://www.solancer.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openshift/origin-server"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "restify": "~2.6.0",
+    "whatsapi": "^1.0.2"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js"
+}
