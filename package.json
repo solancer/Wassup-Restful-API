@@ -23,7 +23,7 @@
     "npm": ">= 1.0.0"
   },
   "dependencies": {
-    "restify": "~2.6.0",
+    "restify": "~8.4.0",
     "whatsapi": "^1.0.2"
   },
   "devDependencies": {},
